@@ -1,2 +1,2 @@
 Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+ It's often the first thing people see when they visit a project's repository, so a well-written README.md can make a positive impression 
